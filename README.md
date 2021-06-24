@@ -21,13 +21,13 @@ You have to clone the repository to your local machine
 git clone git@github.com:volkan-labs/goodreads-kitap-koala-hook.git
 ```
 
-* Open you Chrome extensions from the menu like below
+* Open your Chrome extensions from the menu like below
 
 ![](screenshot/chrome-extensions-menu.png)
 
 or with writing `chrome://extensions` to the URL bar.
 
-* Enable `Developer mode` from the top right button, thiw will show you some extra button on top of the page
+* Enable `Developer mode` from the top right button, this will show you some extra button on top of the page
 
 ![](screenshot/chrome-extensions.png)
 
