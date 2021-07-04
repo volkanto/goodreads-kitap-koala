@@ -7,12 +7,37 @@ w/o Kitap Koala button                           |  with Kitap Koala button
 :-----------------------------------------------:|:-------------------------------------------------:
 ![](screenshot/good-reads-without-extension.png) |  ![](screenshot/kitap-koala-chrome-extension.png)
 
-
-
-
-### Why Kitap Koala
+## Why Kitap Koala
 
 Since its establishment, it has undertaken the treatment of many animals upon application. It has undertaken the delivery of pending books, which it sells through its members, to schools and mediated the delivery of suspended foods to shelters. Therefore, I decided to buy printed books from them as much as possible. For more details, please check their [about us](https://www.kitapkoala.com/sayfa/hakkimizda) page.
+
+## How to install
+
+### From the source code
+
+You have to clone the repository to your local machine
+
+```shell
+git clone git@github.com:volkan-labs/goodreads-kitap-koala-hook.git
+```
+
+* Open your Chrome extensions from the menu like below
+
+![](screenshot/chrome-extensions-menu.png)
+
+or with writing `chrome://extensions` to the URL bar.
+
+* Enable `Developer mode` from the top right button, this will show you some extra button on top of the page
+
+![](screenshot/chrome-extensions.png)
+
+* Click the `Load unpacked` button and select the directory of the repository
+
+![](screenshot/choose-folder.png)
+
+* When you select the repository directory, you will be able to see the extension that is already installed
+
+![](screenshot/chrome-extension-installed.png)
 
 ## Issues
 
