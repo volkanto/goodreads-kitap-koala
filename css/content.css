@@ -1,4 +1,10 @@
 a.buttonBar.kitapKoala {
+    border: 1px solid #D6D0C4;
     background-color: orange;
     color: white;
+}
+
+a.buttonBar.kitapKoala:hover {
+    background-color: #F2E263;
+    color: #333333;
 }
