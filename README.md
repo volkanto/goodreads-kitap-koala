@@ -1,7 +1,6 @@
 # Goodreads Kitap Koala Hook
 
-[Chrome Store - Kitap Koala Hook](https://badgen.net/chrome-web-store/v/ggjlefkknmdoohpbokhfnadadlcaimcb)
-[Mozilla add-on - Kitap Koala](https://badgen.net/amo/v/kitap-koala)
+[<img src="https://badgen.net/chrome-web-store/v/ggjlefkknmdoohpbokhfnadadlcaimcb" />](https://chrome.google.com/webstore/detail/kitap-koala-hook/ggjlefkknmdoohpbokhfnadadlcaimcb) [<img src="https://badgen.net/amo/v/kitap-koala" />](https://addons.mozilla.org/en-US/firefox/addon/kitap-koala/)
 
 It's a Chrome extension that adds a button to Goodreads' book detail page that shows the book on [Kitap Koala](https://kitapkoala.com). There is an Amazon button on the book details page to buy a copy of the related book from Amazon web site. As [goodreads](https://goodreads.com) belongs to Amazon, that is understandable. But, I decided to add another button to see and possibly buy that related book from my favorite online bookstore which is [Kitap Koala](https://kitapkoala.com). 
 
