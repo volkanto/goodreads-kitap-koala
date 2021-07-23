@@ -2,10 +2,9 @@
 
 It's a Chrome extension that adds a button to Goodreads' book detail page that shows the book on [Kitap Koala](https://kitapkoala.com). There is an Amazon button on the book details page to buy a copy of the related book from Amazon web site. As [goodreads](https://goodreads.com) belongs to Amazon, that is understandable. But, I decided to add another button to see and possibly buy that related book from my favorite online bookstore which is [Kitap Koala](https://kitapkoala.com). 
 
-
 w/o Kitap Koala button                           |  with Kitap Koala button
 :-----------------------------------------------:|:-------------------------------------------------:
-![](screenshot/good-reads-without-extension.png) |  ![](screenshot/kitap-koala-chrome-extension.png)
+![](screenshot/good-reads-without-extension.png) | ![](screenshot/kitap-koala-chrome-extension.png)
 
 ## Why Kitap Koala
 
@@ -38,6 +37,8 @@ or with writing `chrome://extensions` to the URL bar.
 * When you select the repository directory, you will be able to see the extension that is already installed
 
 ![](screenshot/chrome-extension-installed.png)
+
+### extension
 
 ## Issues
 
